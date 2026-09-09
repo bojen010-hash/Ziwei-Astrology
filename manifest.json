@@ -1,26 +1,23 @@
 {
-  "background_color": "#ffffff",
-  "description": "紫微斗數論命大師 - 專業全功能排盤與相命軟體",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "紫微斗數論命大師",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "紫微斗數論命大師",
-  "start_url": "/index.html",
-  "theme_color": "#ffffff"
-  "icons": [
-    {
-      "src": "",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "name": "紫微斗數論命大師",
+      "short_name": "紫微斗數論命大師",
+      "description": "紫微斗數論命大師 - 專業全功能排盤與相命軟體",
+      "start_url": "./index.html",
+      "display": "standalone",
+      "background_color": "#ffffff",
+      "theme_color": "#10b981",
+      "icons": [
+        {
+          "src": "https://cdn-icons-png.flaticon.com/512/5968/5968267.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any maskable"
+        },
+        {
+          "src": "https://cdn-icons-png.flaticon.com/512/5968/5968267.png",
+          "sizes": "512x512",
+          "type": "image/png",
+          "purpose": "any maskable"
+        }
+      ]
     }
-  ]
-}
