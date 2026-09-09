@@ -5,7 +5,7 @@
   "display": "standalone",
   "name": "紫微斗數論命大師",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/index.html",
   "short_name": "紫微斗數論命大師",
   "start_url": "/index.html",
   "theme_color": "#ffffff"
