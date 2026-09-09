@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "紫微斗數論命大師 - 專業全功能排盤與相命軟體",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "紫微斗數論命大師",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "紫微斗數論命大師",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff"
+}
